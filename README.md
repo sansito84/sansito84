@@ -1,7 +1,4 @@
-### Hi there 👋
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Santiago.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -18,7 +15,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vuedotjs&logoColor=1572B6)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -41,7 +38,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="[https://www.adityavsingh.com/](https://endearing-faloodeh-1fe71b.netlify.app/)"><img alt="Website" src="https://img.shields.io/badge/Website-style=flat-square&logo=google-chrome"></a>
+<a href="(https://endearing-faloodeh-1fe71b.netlify.app/)"><img alt="Website" src="https://img.shields.io/badge/Website-style=flat-square&logo=google-chrome"></a>
 <a href="www.linkedin.com/in/santiagosito48ab8444"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Sito-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:santiagosito@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santiagosito@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
