@@ -30,7 +30,6 @@
 
 <a href="https://github.com/sansito84">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansito84&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansito84&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -38,8 +37,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="(https://endearing-faloodeh-1fe71b.netlify.app/)"><img alt="Website" src="https://img.shields.io/badge/Website-style=flat-square&logo=google-chrome"></a>
-<a href="(www.linkedin.com/in/santiagosito48ab8444)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Sito-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://endearing-faloodeh-1fe71b.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/santiagosito48ab8444"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Sito-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:santiagosito@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santiagosito@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
