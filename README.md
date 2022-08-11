@@ -39,7 +39,7 @@
 
 <p align="center">
 <a href="(https://endearing-faloodeh-1fe71b.netlify.app/)"><img alt="Website" src="https://img.shields.io/badge/Website-style=flat-square&logo=google-chrome"></a>
-<a href="www.linkedin.com/in/santiagosito48ab8444"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Sito-blue?style=flat-square&logo=linkedin"></a>
+<a href="(www.linkedin.com/in/santiagosito48ab8444)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Sito-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:santiagosito@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santiagosito@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
