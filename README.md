@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Santiago.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+- 🇦🇷 &nbsp; I'm an Argentinian Developer, maintly front-end in road to fullstack.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Business Development Associate at Covery.tech S.A..
 - 🌱 &nbsp; Learning more about Back-End Javascript Development.
