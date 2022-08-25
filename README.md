@@ -30,7 +30,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 - 👨‍💻 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)
-  ![Intel](https://img.shields.io/badge/-Intel-333333?style=flat&logo=i5&logoColor=007ACC)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=007ACC)
 
 <br/>
 
