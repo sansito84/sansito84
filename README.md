@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <ul>
-  <li>🇦🇷 &nbsp; I'm an Argentinian Developer, maintly front-end in road to fullstack.</li>
+  <li> 🇦🇷 &nbsp; I'm an Argentinian Developer, maintly front-end in road to fullstack.</li>
   <li>🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.</li>
   <li>💼 &nbsp; Working as a IT Lead and Associate at Covery.tech S.A..</li>
   <li>🌱 &nbsp; Learning more about Back-End Javascript Development.</li>
