@@ -29,7 +29,8 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 - 👨‍💻 &nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=4FC08D)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)
+  ![Intel](https://img.shields.io/badge/-Intel-333333?style=flat&logo=intel&logoColor=007ACC)
 
 <br/>
 
