@@ -18,7 +18,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
-  ![React.js](https://img.shields.io/badge/React.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
+  ![React.js](https://img.shields.io/badge/React.js-333333?style=flat&logo=reactdotjs&logoColor=4FC08D)
 
 
 - ⚙️ &nbsp;
