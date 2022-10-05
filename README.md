@@ -18,7 +18,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
-  ![React](https://img.shields.io/badge/React.js-333333?style=flat&logo=react&logoColor=4FC08D)
+  ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=4FC08D)
 
 
 - ⚙️ &nbsp;
@@ -27,7 +27,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=figma)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 - 💾 &nbsp;
