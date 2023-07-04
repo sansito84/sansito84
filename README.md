@@ -5,7 +5,7 @@
   <li> 🇦🇷 &nbsp; I'm an Argentinian Developer, maintly front-end in road to fullstack.</li>
   <li>🕵️ &nbsp; Exploring new technologies and developing software solutions and quick hacks.</li>
   <li>💼 &nbsp; Working as an Associate, IT Lead and developer at <a href="https://covery.tech">Covery Insurtech S.A.</a></li>
-  <li>🌱 &nbsp; Learning more about Back-End Javascript Development.</li>
+  <li>🌱 &nbsp; Learning more about Back-End Development.</li>
   <li>✍️ &nbsp; Pursuing Graphic Design as hobbie/side hustle.</li>
 </ul>
 
