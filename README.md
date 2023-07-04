@@ -20,7 +20,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
   ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=4FC08D)
-  ![Mysql](https://img.shields.io/badge/Mysql-333333?style=flat&logo=mysql)
+  ![Mysql](https://img.shields.io/badge/Mysql-333333?style=flat&logo=mysql&logoColor=4479A1)
   
 
 - ⚙️ &nbsp;
