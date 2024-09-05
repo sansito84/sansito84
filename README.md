@@ -39,7 +39,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=ffffff)
   ![ElementaryOS](https://img.shields.io/badge/-ElementaryOS-333333?style=flat&logo=elementary&logoColor=3689e6)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu&logoColor=E95420)
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=007ACC)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=window11s&logoColor=007ACC)
   
 
 <br/>
