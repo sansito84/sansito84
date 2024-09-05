@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>🕵️‍♂️
 <ul>
-  <li> 🇦🇷 &nbsp; I'm an Argentinian Developer, maintly front-end in road to fullstack.</li>
+  <li> 🇦🇷 &nbsp; I'm an Argentinian Developer.</li>
   <li>🕵️ &nbsp; Exploring new technologies and developing software solutions and quick hacks.</li>
   <li>💼 &nbsp; Working as an Associate, IT Lead and developer at <a href="https://covery.tech">Covery Insurtech S.A.</a></li>
-  <li>🌱 &nbsp; Learning more about Back-End Development.</li>
+  <li>🌱 &nbsp; Learning about AI prmopting.</li>
   <li>✍️ &nbsp; Pursuing Graphic Design as hobbie/side hustle.</li>
 </ul>
 
@@ -21,6 +21,7 @@
   ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
   ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=4FC08D)
   ![Mysql](https://img.shields.io/badge/Mysql-333333?style=flat&logo=mysql&logoColor=4479A1)
+  ![Typescript](https://img.shields.io/badge/Typexcript-333333?style=flat&logo=typescript&logoColor=3178C6)
   
 
 - ⚙️ &nbsp;
