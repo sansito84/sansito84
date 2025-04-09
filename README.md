@@ -5,7 +5,7 @@
 I'm a full-stack developer and DevOps enthusiast from Argentina, passionate about building smart web applications and helping businesses grow through technology. Currently focused on improving my skills in automation, deployment and AI prompting.
 
 ### 🔎 What I'm up to
-- 💻 Running my own web development studio: [Sansito Web Labs](https://sansito-weblabs.com)
+- 💻 Working as a freelance web developer 
 - 🚀 Learning advanced DevOps practices with PM2, NGINX, and CI/CD pipelines
 - 🤖 Experimenting with prompt engineering and AI tools
 - 🌱 Seeking remote opportunities and collaborations
